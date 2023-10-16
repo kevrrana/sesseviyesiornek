@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\obj\Debug\sesseviyedi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\obj\Debug\sesseviyedi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\obj\Debug\sesseviyedi.Form1.resources
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\obj\Debug\sesseviyedi.Properties.Resources.resources
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\obj\Debug\sesseviyedi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\obj\Debug\sesseviyedi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\bin\Debug\sesseviyedi.exe.config
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\bin\Debug\sesseviyedi.exe
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\bin\Debug\sesseviyedi.pdb
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\obj\Debug\sesseviyedi.exe
+C:\Users\User\source\repos\sesseviyedi\sesseviyedi\obj\Debug\sesseviyedi.pdb
